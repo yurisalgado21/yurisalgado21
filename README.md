@@ -22,6 +22,10 @@ e me permitam fazer contribuições significativas no campo do desenvolvimento w
   />
   <img src="https://github-readme-stats.vercel.app/api?username=yurisalgado21&show_icons=true" />
 </picture>
+<a href="https://github.com/yurisalgado21/convoychat">
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=yurisalgado21&layout=compact&langs_count=8&card_width=220&theme=dark" />
+</a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,5 +41,7 @@ e me permitam fazer contribuições significativas no campo do desenvolvimento w
 <div> 
   <a href = "mailto:yuri.salgado.ft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-torres-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+##
+
