@@ -1,4 +1,6 @@
-## Olá, sou um apaixonado desenvolvedor web jr e me chamo Yuri e tenho 21 anos.
+## Olá pessoal me chamo Yuri, 
+
+sou um apaixonado desenvolvedor web jr e tenho 21 anos.
 
 Minha jornada na programação me proporcionou uma sólida compreensão de diversas tecnologias.
 Ao longo dos meus estudos, participei ativamente de projetos desafiadores, 
