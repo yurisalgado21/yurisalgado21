@@ -1,6 +1,6 @@
 ## Olá pessoal me chamo Yuri, 
 
-sou um desenvolvedor web jr.
+sou um desenvolvedor web.
 
 Minha jornada na programação me proporcionou uma sólida compreensão de diversas tecnologias.
 Ao longo dos meus estudos, participei ativamente de projetos desafiadores, 
