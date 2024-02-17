@@ -1,6 +1,8 @@
 ## Olá pessoal me chamo Yuri!
 
-Sou um desenvolvedor Web Full-Stack.
+## Sobre Mim:
+
+Sou um desenvolvedor Web Full-Stack 🚀
 
 Minha jornada na programação me proporcionou uma sólida compreensão de diversas tecnologias.
 Ao longo dos meus estudos, participei ativamente de projetos desafiadores, 
@@ -11,7 +13,7 @@ Estou ansioso para continuar crescendo profissionalmente, explorar novas tecnolo
 Minha paixão pela programação e aprendizado constante me impulsiona a buscar desafios que expandam meu conjunto de habilidades 
 e me permitam fazer contribuições significativas no campo do desenvolvimento web.
 
-##
+## Tech Stack:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +28,7 @@ e me permitam fazer contribuições significativas no campo do desenvolvimento w
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
-## 
+## Social:
 
 <div> 
   <a href = "mailto:yuri.salgado.ft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
