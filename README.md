@@ -1,4 +1,4 @@
-## Olá pessoal me chamo Yuri!
+## Olá pessoal me chamo Yuri
 
 ## Sobre Mim
 
@@ -10,6 +10,11 @@ adaptar-me a mudanças rápidas e entregar soluções de alta qualidade no prazo
 Estou ansioso para continuar crescendo profissionalmente, explorar novas tecnologias e contribuir para projetos inovadores. 
 Minha paixão pela programação e aprendizado constante me impulsiona a buscar desafios que expandam meu conjunto de habilidades 
 e me permitam fazer contribuições significativas no campo do desenvolvimento web.
+
+# Atualmente eu estou:
+- Estudando C# (Trybe)
+- Estudando Arquitetura de Computadores (marcelocasteloio)
+- CS50: Introduction to Computer Science (Harvard University)
 
 ## Tech Stack 🖥️
 
