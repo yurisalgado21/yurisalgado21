@@ -1,4 +1,4 @@
-# Olá pessoal me chamo Yuri
+# Bem-vindo, Amantes do Código!
 
 ## Sobre Mim
 
