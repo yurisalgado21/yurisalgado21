@@ -1,4 +1,4 @@
-# Bem-vindo, Amantes do Código!
+# Hi there 👋
 
 ## Sobre Mim
 
