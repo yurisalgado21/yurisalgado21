@@ -11,7 +11,7 @@ Estou ansioso para continuar crescendo profissionalmente, explorar novas tecnolo
 Minha paixão pela programação e aprendizado constante me impulsiona a buscar desafios que expandam meu conjunto de habilidades 
 e me permitam fazer contribuições significativas no campo do desenvolvimento web.
 
-## Currently I am
+## I'm currently
 - Estudando C# (Trybe)
 - Estudando Arquitetura de Computadores (marcelocasteloio)
 - CS50: Introduction to Computer Science (Harvard University)
