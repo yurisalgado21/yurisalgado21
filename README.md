@@ -12,8 +12,8 @@ Minha paixão pela programação e aprendizado constante me impulsiona a buscar 
 e me permitam fazer contribuições significativas no campo do desenvolvimento web.
 
 ## I'm currently
-- Estudando C# (Trybe)
-- Estudando Arquitetura de Computadores (marcelocasteloio)
+- Estudando C# .NET (Trybe)
+- Estudando Introdução à Arquitetura de Computadores na Prática (marcelocasteloio)
 - CS50: Introduction to Computer Science (Harvard University)
 
 ## Tech Stack 🖥️
