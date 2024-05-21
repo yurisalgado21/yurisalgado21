@@ -11,11 +11,6 @@ Estou ansioso para continuar crescendo profissionalmente, explorar novas tecnolo
 Minha paixão pela programação e aprendizado constante me impulsiona a buscar desafios que expandam meu conjunto de habilidades 
 e me permitam fazer contribuições significativas no campo do desenvolvimento web.
 
-## I'm currently
-- Estudando C# .NET (Trybe)
-- Estudando Introdução à Arquitetura de Computadores na Prática (marcelocasteloio)
-- CS50: Introduction to Computer Science (Harvard University)
-
 ## Tech Stack 🖥️
 
 <div style="display: inline_block"><br>
