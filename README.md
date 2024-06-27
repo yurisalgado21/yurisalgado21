@@ -2,14 +2,8 @@
 
 ## About me
 
-Minha jornada na programação me proporcionou uma sólida compreensão de diversas tecnologias.
-Ao longo dos meus estudos, participei ativamente de projetos desafiadores, 
-onde pude aplicar meus conhecimentos em desenvolvimento web garantindo a qualidade e robustez dos projetos em que estive envolvido.
-Minhas habilidades não se limitam apenas ao código permitindo-me colaborar eficazmente em equipes,
-adaptar-me a mudanças rápidas e entregar soluções de alta qualidade no prazo.
-Estou ansioso para continuar crescendo profissionalmente, explorar novas tecnologias e contribuir para projetos inovadores. 
-Minha paixão pela programação e aprendizado constante me impulsiona a buscar desafios que expandam meu conjunto de habilidades 
-e me permitam fazer contribuições significativas no campo do desenvolvimento web.
+My programming journey has given me a solid understanding of various technologies. Throughout my studies, I actively participated in challenging projects, where I was able to apply my knowledge in web development, ensuring the quality and robustness of the projects in which I was involved. My skills are not limited to just code, allowing me to collaborate effectively across teams, adapt to rapid changes, and deliver high-quality solutions on time. I look forward to continuing to grow professionally, explore new technologies and contribute to innovative projects. My passion for programming and constant learning drives me to seek out challenges that expand my skill set and allow me to make significant contributions to the field of web development.
+
 
 ## Tech Stack 🖥️
 
