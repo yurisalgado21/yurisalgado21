@@ -2,7 +2,10 @@
 
 ## About me
 
-My programming journey has given me a solid understanding of various technologies. Throughout my studies, I actively participated in challenging projects, where I was able to apply my knowledge in web development, ensuring the quality and robustness of the projects in which I was involved. My skills are not limited to just code, allowing me to collaborate effectively across teams, adapt to rapid changes, and deliver high-quality solutions on time. I look forward to continuing to grow professionally, explore new technologies and contribute to innovative projects. My passion for programming and constant learning drives me to seek out challenges that expand my skill set and allow me to make significant contributions to the field of web development.
+I'm Yuri Torres, and my programming journey has provided me with solid knowledge in various technologies. Throughout my studies, I actively participated in challenging projects, where I was able to apply my knowledge in software development, always seeking to ensure the quality and robustness of the projects in which I was involved. My approach stands out for its commitment to understanding business rules, proposing strategic solutions and delivering high-quality results, proposing the most appropriate solutions to solve complex problems.
+
+My skills go beyond code, which allows me to collaborate effectively with different teams, adapt quickly to changes and deliver quality solutions within established deadlines. I look forward to continuing to grow professionally, explore new technologies and contribute to innovative projects in the corporate world. My passion for programming and constant learning drives me to seek out challenges that expand my skill set and allow me to make significant contributions to software development.
+
 
 
 ## Tech Stack 🖥️
