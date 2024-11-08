@@ -1,28 +1,5 @@
-# Hi there 👋
+# Olá sou o Yuri
 
-## About me
-I'm Yuri Torres, and my programming journey has provided me with solid knowledge in various technologies. Throughout my studies, I actively participated in challenging projects, where I was able to apply my knowledge in software development, always seeking to ensure the quality and robustness of the projects in which I was involved. My approach stands out for its commitment to understanding business rules, proposing strategic solutions and delivering high-quality results, proposing the most appropriate solutions to solve complex problems.
-My skills go beyond code, which allows me to collaborate effectively with different teams, adapt quickly to changes and deliver quality solutions within established deadlines. I look forward to continuing to grow professionally, explore new technologies and contribute to innovative projects in the corporate world. My passion for programming and constant learning drives me to seek out challenges that expand my skill set and allow me to make significant contributions to software development.
-## Tech Stack 🖥️
+E minha jornada na programação me proporcionou um conhecimento sólido em diversas tecnologias, eu trabalho atualmente com C# .NET Core ao qual eu continuo me aprofundando e mantendo meu foco nos conhecimentos da plataforma e da linguagem, e ao longo dos meus estudos eu participei ativamente de projetos desafiadores, onde pude aplicar meus conhecimentos em desenvolvimento de software, sempre buscando garantir a qualidade e robustez dos projetos em que estive envolvido, Minha abordagem se destaca pelo compromisso em entender as regras de negócio, propor soluções estratégicas e entregar resultados, propondo as soluções mais adequadas para resolver problemas.
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
-  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yuri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yuri-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-</div>
-
-## Social 👥
-<div> 
-  <a href = "mailto:yuri.salgado.ft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-torres-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Minhas habilidades vão além do código, o que me permite colaborar de forma eficaz com diferentes equipes, adaptar-me rapidamente a mudanças e entregar soluções de qualidade dentro dos prazos estabelecidos, Estou na busca para continuar crescendo profissionalmente, explorar novas tecnologias e contribuir com projetos inovadores no mundo corporativo e na área de desenvolvimento de software, Minha paixão por programação e aprendizado constante me leva a buscar desafios que ampliem meu conjunto de habilidades e me permitam fazer contribuições significativas na área de desenvolvimento de software.
