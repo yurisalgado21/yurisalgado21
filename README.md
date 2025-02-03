@@ -1,8 +1,25 @@
 # Olá sou o Yuri
 
-E minha jornada na programação me proporcionou um conhecimento sólido em diversas tecnologias, eu trabalho atualmente com C# .NET Core ao qual eu continuo me aprofundando e mantendo meu foco nos conhecimentos da plataforma e da linguagem, e ao longo dos meus estudos eu participei ativamente de projetos desafiadores, onde pude aplicar meus conhecimentos em desenvolvimento de software, sempre buscando garantir a qualidade e robustez dos projetos em que estive envolvido, Minha abordagem se destaca pelo compromisso em entender as regras de negócio, propor soluções estratégicas e entregar resultados, propondo as soluções mais adequadas para resolver problemas.
+💻 Desenvolvedor C# .NET | JavaScript 🚀
 
-Minhas habilidades vão além do código, o que me permite colaborar de forma eficaz com diferentes equipes, adaptar-me rapidamente a mudanças e entregar soluções de qualidade dentro dos prazos estabelecidos, Estou na busca para continuar crescendo profissionalmente, explorar novas tecnologias e contribuir com projetos inovadores no mundo corporativo e na área de desenvolvimento de software, Minha paixão por programação e aprendizado constante me leva a buscar desafios que ampliem meu conjunto de habilidades e me permitam fazer contribuições significativas na área de desenvolvimento de software.
+Atuo no desenvolvimento de software, com experiência na criação de APIs, modelagem de dados e integração de sistemas. Tenho habilidades em C#, ASP.NET Core, Entity Framework, SQL, TypeScript e Docker, além de conhecimento em boas práticas de desenvolvimento e metodologias ágeis.
+
+Alguns dos meus conhecimentos envolvem:
+
+Processos:
+• REST
+• JWT
+• Banco de dados
+• Power BI
+• GIT
+
+Linguagens complementares:
+• SQL
+• CSS
+• HTML
+• Python
+
+Como podem ver, sou apaixonado por tecnologia e aprendizado contínuo, busco sempre aprimorar minhas habilidades e contribuir para soluções eficientes e escaláveis.
 
 ## Tech Stack 🖥️
 
