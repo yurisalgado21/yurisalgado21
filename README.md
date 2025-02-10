@@ -1,6 +1,6 @@
 # Olá sou o Yuri
 
-💻 Desenvolvedor C# .NET | JavaScript 🚀
+Desenvolvedor C# .NET
 
 Atuo no desenvolvimento de software, com experiência na criação de APIs, modelagem de dados e integração de sistemas. Tenho habilidades em C#, ASP.NET Core, Entity Framework, SQL, TypeScript e Docker, além de conhecimento em boas práticas de desenvolvimento e metodologias ágeis.
 
@@ -18,8 +18,7 @@ Linguagens complementares:
 • CSS
 • HTML
 • Python
-
-Como podem ver, sou apaixonado por tecnologia e aprendizado contínuo, busco sempre aprimorar minhas habilidades e contribuir para soluções eficientes e escaláveis.
+• JavaScript
 
 ## Tech Stack 🖥️
 
