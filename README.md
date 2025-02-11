@@ -2,7 +2,7 @@
 
 Desenvolvedor C# .NET
 
-Atuo no desenvolvimento de software, com experiência na criação de APIs, modelagem de dados e integração de sistemas. Tenho habilidades em C#, ASP.NET Core, Entity Framework, SQL, TypeScript e Docker, além de conhecimento em boas práticas de desenvolvimento e metodologias ágeis.
+Atuo no desenvolvimento de software, com experiência na criação de APIs, modelagem de dados e integração de sistemas. Tenho habilidades em C#, ASP.NET Core, Entity Framework, SQL e Docker, além de conhecimento em boas práticas de desenvolvimento e metodologias ágeis.
 
 Alguns dos meus conhecimentos envolvem:
 
