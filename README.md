@@ -15,7 +15,6 @@ Processos:
 
 Linguagens complementares:
 • SQL
-• CSS
 • HTML
 • Python
 • JavaScript
