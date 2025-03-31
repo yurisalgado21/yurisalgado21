@@ -6,7 +6,7 @@ Atuo no desenvolvimento de software, com experiência na criação de APIs, mode
 
 Também possuo conhecimentos em Arquitetura e Organização de Computadores, Redes de Computadores, Protocolos de Comunicação, Análise e Modelagem de Sistemas, Engenharia de Software e Computação em Nuvem(certificação AZ-900), mensageria (RabbitMQ), conhecimento sobre Observabilidade, conhecimento sobre Resiliência em software (padrões retry e circuit breaker), Gestão de memória (stack e heap), Programação assíncrona, Programação paralela, onde aplico esses conceitos no desenvolvimento de soluções eficientes e escaláveis.
 
-Alguns dos meus conhecimentos envolvem:
+## Conhecimentos:
 
 Processos:
 • REST
@@ -22,3 +22,27 @@ Linguagens complementares:
 • HTML
 • Python
 • JavaScript
+
+## Tecnologias:
+
+ <div style="display: inline_block"><br>
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
+   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="Yuri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Yuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+ </div>
+
+
+## Social 👥
+ <div> 
+   <a href = "mailto:yuri.salgado.ft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/yuri-torres-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
