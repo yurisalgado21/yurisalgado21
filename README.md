@@ -1,4 +1,4 @@
-# Olá sou o Yuri
+# Olá! Yuri Aqui
 
 Sou um Desenvolvedor C# .NET Core e atuo no desenvolvimento de software, com experiência na criação de APIs, modelagem de dados e integração de sistemas. Tenho habilidades em C#, ASP.NET Core, Entity Framework, SQL, TypeScript e Docker, além de conhecimento em boas práticas de desenvolvimento e metodologias ágeis.
 
@@ -40,11 +40,4 @@ Linguagens complementares:
    <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
- </div>
-
-
-## Social:
- <div> 
-   <a href = "mailto:yuri.salgado.ft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/yuri-torres-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
